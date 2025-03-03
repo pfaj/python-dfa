@@ -9,6 +9,6 @@ In the current main I have created a language that accepts
 
 Below is an image representation of what this looks like.
 
-![./DFA.png]
+![DFA](./DFA.png)
 
 Feel free to download and mess with the code.
